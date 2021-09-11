@@ -1,2 +1,2 @@
-# tcpip-client-server
+# tcpip-client
 Qt, c++
